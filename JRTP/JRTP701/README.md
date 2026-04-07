@@ -5,8 +5,11 @@
 # mvn package is used to create jar/war file to deploy on web
 ![Maven-Web](./Maven-Web.png)
 
-#Deployment
+# Deployment
+## Deploy Linux
 ![Deploy-Linux](./Deploy-Linux.png)
+## Deploy SpringBoot Project
 ![Deploy-SpringBoot01](./Deploy-SpringBoot01.png)
 ![Deploy-SpringBoot02](./Deploy-SpringBoot02.png)
+## Aws Cfgs
 ![Aws-Cfgs](./Aws-Cfgs.png)

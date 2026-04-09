@@ -18,3 +18,8 @@
 ## for Static Code Review
 ![SonarQube01](./SonarQube01.png)
 ![SonarQube02](./SonarQube02.png)
+
+# JMeter
+## for Load balencing Testing
+![JMeter01](./JMeter01.png)
+![JMeter02](./JMeter02.png)

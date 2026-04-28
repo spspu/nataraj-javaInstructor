@@ -1,0 +1,34 @@
+package com.mainapp.bike;
+
+public class BajajDiscoverBike implements BajajBike{
+	
+	private float price;
+
+	@Override
+	public void painting() {
+		System.out.println("BajajDiscoverBike.painting()");
+	}
+
+	@Override
+	public void assembling() {
+		System.out.println("BajajDiscoverBike.asembling()");
+	}
+
+	@Override
+	public void engineTest() {
+		System.out.println("BajajDiscoverBike.engineTest()");
+	}
+
+	@Override
+	public void roadTest() {
+		System.out.println("BajajDiscoverBike.roadTest()");
+		
+	}
+
+	@Override
+	public void drive() {
+		System.out.println("BajajDiscoverBike.drive()");
+		
+	}
+
+}

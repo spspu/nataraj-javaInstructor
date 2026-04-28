@@ -1,0 +1,6 @@
+CREATE TABLE DAO_CUSTOMER11 (
+    cid INT AUTO_INCREMENT PRIMARY KEY,
+    cname VARCHAR(50),
+    cadd VARCHAR(100),
+    bill_amt FLOAT
+);
